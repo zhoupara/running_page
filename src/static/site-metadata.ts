@@ -17,12 +17,13 @@ const data: ISiteMetadataResult = {
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://github.com/zhou_para/gitblog',
-    },
-    {
-      name: 'About',
-      url: 'https://github.com/zhou_para/running_page/blob/master/README-CN.md',
-    },
+      url: 'https://zhoupara.github.io/BlogSource/',
+    }
+    ,
+    // {
+    //   name: 'About',
+    //   url: 'https://github.com/zhou_para/running_page/blob/master/README-CN.md',
+    // },
   ],
 };
 
